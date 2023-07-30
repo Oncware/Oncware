@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Onurcan</h1>
-<h3 align="center">I am an Industrial Engineer student, currently i'm at 4th grade. I'm passionately devolop my software skills for my future system Engineering career.</h3>
+<h3 align="center">I am an Industrial Engineer student, currently i'm at 4th grade. I'm passionately devolop my software skills for my future System Engineering career.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oncware&label=Profile%20views&color=0e75b6&style=flat" alt="oncware" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JS fullstack.**
 
-- 💬 Ask me about **Anything you wonder.**
+- 💬 Ask me about **anything you wonder.**
 
 - 📫 How to reach me **Discord : Onc#9443**
 
