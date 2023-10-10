@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Onurcan</h1>
 <h3 align="center">I am an Industrial Engineer student, currently i'm at 4th grade. I'm passionately devolop my software skills for my future system Engineering career.</h3>
 
-
-
 - 🌱 I’m currently learning **C#, .NET, EF, JS**
 
 - 💬 Ask me about **Anything you wonder.**
