@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Onurcan</h1>
 <h3 align="center">I am an Industrial Engineer student, currently i'm at 4th grade. I'm passionately devolop my software skills for my future system Engineering career.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oncware" alt="oncware" /></a> </p>
+
 
 - 🌱 I’m currently learning **C#, .NET, EF, JS**
 
