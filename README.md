@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oncware" alt="oncware" /></a> </p>
 
-- 🌱 I’m currently learning **JS fullstack.**
+- 🌱 I’m currently learning **C# .NET JS**
 
 - 💬 Ask me about **anything you wonder.**
 
-- 📫 How to reach me **Discord : Onc#9443**
+- 📫 How to reach me **Discord : purplonc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
